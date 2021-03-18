@@ -47,3 +47,7 @@
 
 - next we will create a admin user
 > python manage.py createsuperuser
+
+- django uses apps to split the main application functionality
+> python manage.py startapp quotes
+
